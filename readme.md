@@ -1,3 +1,6 @@
+### DEMO
+[![Flappy Bird Thumbnail](flappybird.png)](https://youtu.be/e0z_SxfxYTY)
+
 # Flappy bird Game with Deep-Q Reinforcement Learning
 
 Flappy bird game built with pygame, Press spacebar to jump, R to restart, M to turn on the AI mode, the AI Agent trains with Deep-Q Reinforcement learning through iterations, after many iterations the agent will learn the pattern to play the game effectively. 
